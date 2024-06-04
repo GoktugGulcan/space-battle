@@ -21,9 +21,7 @@ Space Battle is a 2D space shooter game built with Python and Pygame. The player
     cd space-battle
     ```
 3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 4. Run the game:
     ```bash
     python main.py
